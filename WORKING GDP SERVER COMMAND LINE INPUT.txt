@@ -1,0 +1,1 @@
+"C:\Program Files\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.stlink-gdb-server.win32_2.1.300.202403291623\tools\bin\ST-LINK_gdbserver.exe" -e -d -v -cp "C:\Program Files\STM32CubeIDE_1.15.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_2.1.201.202404072231\tools\bin"
